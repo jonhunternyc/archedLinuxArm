@@ -35,6 +35,7 @@ Login as root in ChromeOS, then enter the following commands:
 
 cd /tmp
 curl -O https://raw.githubusercontent.com/jonhunternyc/archedLinuxArm/main/bash_install.sh
+bash bash_install.sh
 
 After it finishes, reboot your device and tap CTRL-U to boot onto your USB or SD card when you are greeted with the bootloader.
 
